@@ -1,3 +1,14 @@
-#icon {
-	width: 100px;
+.header-list li{
+	list-style: none;
+	float: left;
+	padding: 10px;
+}
+
+.header-logo{
+	float: left;
+}
+
+.logo{
+	font-size: 20px;
+	padding: 10px;
 }
